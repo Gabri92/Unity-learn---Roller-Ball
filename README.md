@@ -5,11 +5,9 @@ Fourth prototype, made for the 'Unity learn' online series in which the main cha
 Functionalities implemented:
 
 - Basic player control
-- Random spawn of the obstacles
+- Random spawn of enemies and power-ups
 - Destruction of the object off-screen
-- Collision events
-- Force vector for jumping
-- Death and running animations
+- Collision and trigger events
 - Particle and sound effects
 - Objects which give a time limited power-up
 - Different waves of enemies with an increasing level of difficulty
